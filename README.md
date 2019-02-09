@@ -1,1 +1,1 @@
-# simple-go-rest-api
+# Simple Rest API using go lang, echo, gorm
